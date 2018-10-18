@@ -1,22 +1,13 @@
-stages:
-  - test
-  - build
-  - deploy
+image: monachus/hugo:v0.49.2
 
-test:
-  stage: test
-  script: echo "Running tests"
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
 
-build:
-  stage: build
-  script: echo "Building the app"
-
-deploy_staging:
-  stage: deploy
+pages:
   script:
-    - echo "Deploy to staging server"
-  environment:
-    name: staging
-    url: https://staging.bosabosa.org
+  - hugo
+  artifacts:
+    paths:
+    - public
   only:
   - master
