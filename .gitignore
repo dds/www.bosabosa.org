@@ -1,2 +1,4 @@
 /public
+/content
+!/content/.keep
 /resources/_gen
