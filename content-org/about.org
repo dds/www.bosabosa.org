@@ -1,0 +1,6 @@
+#+HUGO_BASE_DIR: ../
+#+HUGO_MENU: :menu main
+#+HUGO_SECTION:
+#+TITLE: About
+
+My name is David Daniel Smith and this is my personal website.

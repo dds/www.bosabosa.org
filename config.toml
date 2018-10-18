@@ -19,4 +19,6 @@ pygmentsCodeFences      = true
 
 [params]
   tagline = "Hello, World!"
+  mainSections = ["posts"]
+
   
