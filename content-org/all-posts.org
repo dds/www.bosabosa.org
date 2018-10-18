@@ -1,0 +1,4 @@
+#+HUGO_BASE_DIR: ../
+
+* First Post
+ Hello, World!

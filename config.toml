@@ -1,0 +1,9 @@
+baseURL                 = "https://www.bosabosa.org/"
+title                   = "ぼさぼさ|bosabosa"
+isMultilingual          = true
+defaultContentLanguage  = "en"
+languageCode            = "en-us"
+theme                   = ""
+pygmentsStyle           = "monokai"
+pygmentsCodeFences      = "true"
+googleAnalytics         = ""
