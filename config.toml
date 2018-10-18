@@ -1,9 +1,23 @@
 baseURL                 = "https://www.bosabosa.org/"
-title                   = "ぼさぼさ|bosabosa"
+title                   = "bosabosa"
+copyright               = "Copyright &copy; 2010-2018 David Smith"
+canonifyurls            = true
 isMultilingual          = true
 defaultContentLanguage  = "en"
 languageCode            = "en-us"
-theme                   = ""
-pygmentsStyle           = "monokai"
-pygmentsCodeFences      = "true"
-googleAnalytics         = ""
+googleAnalytics         = "UA-1916871-6"
+theme                   = "hugo-bare-min-theme"
+paginate                = 5
+summaryLength           = 30
+enableEmoji             = true
+pygmentsCodeFences      = true
+
+[author]
+  name = "David Daniel Smith (dds)"
+  github = "dds"
+  gatehub = "daviddanielsmith"
+  twitter = "exponent"
+
+[params]
+  tagline = "Hello, World!"
+  
