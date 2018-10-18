@@ -6,7 +6,6 @@ isMultilingual          = true
 defaultContentLanguage  = "en"
 languageCode            = "en-us"
 googleAnalytics         = "UA-1916871-6"
-theme                   = "hugo-bare-min-theme"
 paginate                = 5
 summaryLength           = 30
 enableEmoji             = true
