@@ -1,8 +1,5 @@
 image: monachus/hugo:v0.49.2
 
-variables:
-  GIT_SUBMODULE_STRATEGY: recursive
-
 pages:
   script:
   - hugo
