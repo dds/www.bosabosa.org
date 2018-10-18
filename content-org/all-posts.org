@@ -1,3 +1,4 @@
+#+title: BosaBosa
 #+HUGO_BASE_DIR: ../
 
 * First Post
