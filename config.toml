@@ -22,7 +22,14 @@ cleanDestinationDir     = true
   tagline = "Hello, World!"
   mainSections = ["posts"]
 
-[Permalinks]
+[permalinks]
   posts = "/:year/:month/:slug/"
   
+[menu]
+
+  [[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 1
   
