@@ -1,6 +1,6 @@
 #+TITLE: bosabosa
 #+HUGO_AUTO_SET_LASTMOD: t
-#+HUGO_BASE_DIR: ../
+#+HUGO_BASE_DIR: ./
 
 * Posts
 :PROPERTIES:

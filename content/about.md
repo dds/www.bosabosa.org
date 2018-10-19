@@ -1,7 +1,7 @@
 +++
 title = "About"
 author = ["David Smith"]
-lastmod = 2018-10-18T19:39:49-07:00
+lastmod = 2018-10-18T19:40:57-07:00
 draft = false
 [menu.main]
   weight = 1001
