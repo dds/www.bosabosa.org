@@ -23,7 +23,7 @@ cleanDestinationDir     = true
   mainSections = ["posts"]
 
 [permalinks]
-  posts = "/:year/:month/:slug/"
+  posts = "/posts/:slug/"
   
 [menu]
 

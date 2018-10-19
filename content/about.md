@@ -1,7 +1,7 @@
 +++
 title = "About"
 author = ["David Smith"]
-lastmod = 2018-10-18T18:43:43-07:00
+lastmod = 2018-10-18T19:32:36-07:00
 draft = false
 [menu.main]
   weight = 1001
@@ -26,3 +26,5 @@ I like serving my own website instead of using commercial platforms, e.g. facebo
 
 
 ## How does this site work? {#how-does-this-site-work}
+
+I wrote a post about [how to make a website](/posts/make-a-website) that guides you through creating your own simple website using the same system as this one. It's not as simple as signing up for facebook, but it's close.

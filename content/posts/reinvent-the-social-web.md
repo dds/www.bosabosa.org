@@ -1,7 +1,7 @@
 +++
 title = "Re: André Staltz - Reinvent the Social Web"
 author = ["David Smith"]
-lastmod = 2018-10-18T18:37:51-07:00
+lastmod = 2018-10-18T19:32:35-07:00
 draft = true
 +++
 

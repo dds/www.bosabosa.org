@@ -1,7 +1,7 @@
 all: build
 
 build:
-	hugo --cleanDestinationDir
+	hugo --cleanDestinationDir -D
 
 test: build
-	hugo --cleanDestinationDir -w server -p 8083
+	hugo --cleanDestinationDir -w server -p 8083 -D

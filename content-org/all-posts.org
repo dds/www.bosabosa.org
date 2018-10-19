@@ -1,9 +1,11 @@
 #+TITLE: bosabosa
-#+HUGO_BASE_DIR: ../
-#+HUGO_SECTION: posts
 #+HUGO_AUTO_SET_LASTMOD: t
+#+HUGO_BASE_DIR: ../
 
 * Posts
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: posts
+:END:
 ** DONE First Post
 :PROPERTIES:
 :EXPORT_FILE_NAME: first-post
@@ -13,6 +15,26 @@
   First post!
 :END:
  Hello, World!
+** TODO Make a Website
+:PROPERTIES:
+:EXPORT_FILE_NAME: make-a-website
+:END:
+#+begin_details
+#+begin_summary
+In this post, you will learn what powers this website and how you can create your own in a few minutes.
+#+end_summary
+I built this website with hugo, a static site generator. The contents are kept in a single file.
+#+end_details
+
+*** Overview
+ This is the overview of how my site works.
+
+# Insert diagram here.
+
+*** Browse Source
+
+The source code to this site is open and available on [[https://github.com/dds/www.bosabosa.org][github]].
+
 
 ** TODO Re: André Staltz - Reinvent the Social Web
 :PROPERTIES:
@@ -46,3 +68,5 @@ My name is David Daniel Smith and this is my personal website.
 I like serving my own website instead of using commercial platforms, e.g. facebook and twitter.
 
 ** How does this site work?
+
+I wrote a post about [[/posts/make-a-website][how to make a website]] that guides you through creating your own simple website using the same system as this one. It's not as simple as signing up for facebook, but it's close.
