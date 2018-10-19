@@ -1,7 +1,7 @@
 +++
 title = "About"
 author = ["David Smith"]
-lastmod = 2018-10-18T19:32:36-07:00
+lastmod = 2018-10-18T19:39:49-07:00
 draft = false
 [menu.main]
   weight = 1001
@@ -22,7 +22,7 @@ My name is David Daniel Smith and this is my personal website.
 
 ## Why do I do this? {#why-do-i-do-this}
 
-I like serving my own website instead of using commercial platforms, e.g. facebook and twitter.
+I like serving my own website instead of using commercial providers. I have done it in various ways since 1999.
 
 
 ## How does this site work? {#how-does-this-site-work}
