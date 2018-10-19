@@ -1,12 +1,14 @@
 #+TITLE: bosabosa
-#+HUGO_AUTO_SET_LASTMOD: t
+#+STARTUP: logdone
 #+HUGO_BASE_DIR: ./
 
 * Posts
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: posts
+:EXPORT_HUGO_AUTO_SET_LASTMOD: t
 :END:
 ** DONE First Post
+CLOSED: [2018-10-18 Thu 16:31]
 :PROPERTIES:
 :EXPORT_FILE_NAME: first-post
 :END:
@@ -15,8 +17,14 @@
   First post!
 :END:
  Hello, World!
-** TODO Make a Website
+** DONE Make a Website
+CLOSED: [2018-10-18 Thu 19:46]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2018-10-18 Thu 19:46] \\
+  It's up, so this is not TODO. Although it can be better :)
+:END:
 :PROPERTIES:
+#+HUGO_AUTO_SET_LASTMOD: t
 :EXPORT_FILE_NAME: make-a-website
 :END:
 #+begin_details
@@ -56,7 +64,9 @@ Ok, let's try it out.
 :EXPORT_HUGO_SECTION: /
 :EXPORT_FILE_NAME: about
 :EXPORT_HUGO_MENU: :menu "main" :title "About"
+:EXPORT_DATE: [2018-10-18 Thu 16:31]
 :CUSTOM_ID: about
+
 :END:
 ** Who am I?
 
@@ -70,3 +80,7 @@ I like serving my own website instead of using commercial providers. I have done
 ** How does this site work?
 
 I wrote a post about [[/posts/make-a-website][how to make a website]] that guides you through creating your own simple website using the same system as this one. It's not as simple as signing up for facebook, but it's close.
+
+# Local Variables:
+# org-hugo-auto-export-on-save: t
+# End:
