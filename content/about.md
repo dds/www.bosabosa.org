@@ -1,10 +1,28 @@
 +++
 title = "About"
 author = ["David Smith"]
-lastmod = 2018-10-18T17:22:45-07:00
+lastmod = 2018-10-18T18:43:43-07:00
 draft = false
 [menu.main]
+  weight = 1001
   identifier = "about"
+  title = "About"
 +++
 
+## Who am I? {#who-am-i}
+
 My name is David Daniel Smith and this is my personal website.
+
+
+## Where have I been? Where am I? And where am I going? {#where-have-i-been-where-am-i-and-where-am-i-going}
+
+
+## What is this site? {#what-is-this-site}
+
+
+## Why do I do this? {#why-do-i-do-this}
+
+I like serving my own website instead of using commercial platforms, e.g. facebook and twitter.
+
+
+## How does this site work? {#how-does-this-site-work}

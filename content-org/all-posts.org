@@ -1,8 +1,10 @@
+#+TITLE: bosabosa
 #+HUGO_BASE_DIR: ../
 #+HUGO_SECTION: posts
 #+HUGO_AUTO_SET_LASTMOD: t
 
-* DONE First Post
+* Posts
+** DONE First Post
 :PROPERTIES:
 :EXPORT_FILE_NAME: first-post
 :END:
@@ -11,3 +13,36 @@
   First post!
 :END:
  Hello, World!
+
+** TODO Re: André Staltz - Reinvent the Social Web
+:PROPERTIES:
+:EXPORT_FILE_NAME: reinvent-the-social-web
+:SOURCE: [[https://staltz.com/reinvent-the-social-web.html][André Staltz - Reinvent the Social Web]]
+:CAPTURED: [2018-10-18 Thu 18:25]
+:END:
+
+*** Background
+
+André posts about a protocol and app for reinventing the social web in a decentralized way that might just work. The specifics are using the [[https://www.scuttlebutt.nz/][scuttlebut]] social syncing protocol, the [[https://github.com/auditdrivencrypto/secret-handshake][secret-handshake]] mutual authentication scheme, the [[https://github.com/ssbc/patchwork][patchwork]] interface that looks like a better email/facebook communication tool, instagram-like [[https://github.com/ssbc/patchbay][patchbay]], [[https://github.com/ticktackim/ticktack-network][ticktack]] blogging platform, and [[https://www.manyver.se/][manyver.se]] mobile client.
+
+*** Field Report
+
+Ok, let's try it out.
+
+* About
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: /
+:EXPORT_FILE_NAME: about
+:EXPORT_HUGO_MENU: :menu "main" :title "About"
+:CUSTOM_ID: about
+:END:
+** Who am I?
+
+My name is David Daniel Smith and this is my personal website.
+
+** Where have I been? Where am I? And where am I going?
+** What is this site?
+** Why do I do this?
+I like serving my own website instead of using commercial platforms, e.g. facebook and twitter.
+
+** How does this site work?
