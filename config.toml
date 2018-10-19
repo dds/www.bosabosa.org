@@ -15,7 +15,7 @@ cleanDestinationDir     = true
 [author]
   name = "David Daniel Smith (dds)"
   github = "dds"
-  gatehub = "daviddanielsmith"
+  gitlab = "daviddanielsmith"
   twitter = "exponent"
 
 [params]
