@@ -43,7 +43,6 @@ I built this website with hugo, a static site generator. The contents are kept i
 
 The source code to this site is open and available on [[https://github.com/dds/www.bosabosa.org][github]].
 
-
 ** TODO Re: André Staltz - Reinvent the Social Web
 :PROPERTIES:
 :EXPORT_FILE_NAME: reinvent-the-social-web
@@ -58,6 +57,36 @@ André posts about a protocol and app for reinventing the social web in a decent
 *** Field Report
 
 Ok, let's try it out.
+
+
+** TODO We all Struggle
+:PROPERTIES:
+:EXPORT_FILE_NAME: we-all-struggle
+:END:
+
+** TODO Shame and Pride
+:PROPERTIES:
+:EXPORT_FILE_NAME: shame-and-pride
+:END:
+#+begin_summary
+Shame is hard to give up, but if you have it, make it a priority to get rid of it.
+
+ - Fuck pride
+
+ - Just be you and own it
+
+ - It's OK to ask for help along the way
+
+#+end_summary
+#+begin_quote
+Be so great, they can't ignore you.
+
+-- Steve Martin
+#+end_quote
+
+How do you feel about yourself? Are you proud? I hope you are a little, because you're the shit. You're reading this, so you've learned to read and had to overcome incredible odds and adversity to do that, and so much more. How proud are you?
+
+Because pride can send you into a dark place, too. Do you think you're better than others? If you sometimes catch yourself thinking, "why can't he just figure it out?" or, "why doesn't she know this already?" then you might be too proud. Since [[/posts/we-all-struggle][we all struggle]], we don't all get there at the same pace, if at all.
 
 * About
 :PROPERTIES:
