@@ -113,3 +113,9 @@ I wrote a post about [[/posts/make-a-website][how to make a website]] that guide
 # Local Variables:
 # org-hugo-auto-export-on-save: t
 # End:
+
+** Please donate
+*** BTC
+1Q32Hippx1aUTS1A3xeTftWypyf7sXSSm3
+*** XMR
+89jAadLJsfzKK8F17hwWENTSHucvvcWTHWnuNL2z37Hu91KdK7ab7MYjZG26Xcr5XbSiqLbVzJhLmFMQUh2kQbho32SET5F
