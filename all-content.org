@@ -94,8 +94,6 @@ Because pride can send you into a dark place, too. Do you think you're better th
 :EXPORT_FILE_NAME: about
 :EXPORT_HUGO_MENU: :menu "main" :title "About"
 :EXPORT_DATE: [2018-10-18 Thu 16:31]
-:CUSTOM_ID: about
-
 :END:
 ** Who am I?
 

@@ -1,7 +1,8 @@
 +++
 title = "About"
 author = ["David Smith"]
-lastmod = 2018-10-18T19:40:57-07:00
+date = 2018-10-18T16:31:00-07:00
+lastmod = 2018-10-22T22:59:31-07:00
 draft = false
 [menu.main]
   weight = 1001
@@ -28,3 +29,16 @@ I like serving my own website instead of using commercial providers. I have done
 ## How does this site work? {#how-does-this-site-work}
 
 I wrote a post about [how to make a website](/posts/make-a-website) that guides you through creating your own simple website using the same system as this one. It's not as simple as signing up for facebook, but it's close.
+
+
+## Please donate {#please-donate}
+
+
+### BTC {#btc}
+
+1Q32Hippx1aUTS1A3xeTftWypyf7sXSSm3
+
+
+### XMR {#xmr}
+
+89jAadLJsfzKK8F17hwWENTSHucvvcWTHWnuNL2z37Hu91KdK7ab7MYjZG26Xcr5XbSiqLbVzJhLmFMQUh2kQbho32SET5F
