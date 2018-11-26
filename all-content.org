@@ -17,9 +17,9 @@ CLOSED: [2018-10-18 Thu 16:31]
   First post!
 :END:
  Hello, World!
-** DONE Make a Website
-CLOSED: [2018-10-18 Thu 19:46]
+** TODO Make a Website
 :LOGBOOK:
+- State "TODO"       from "DONE"       [2018-11-14 Wed 20:40]
 - State "DONE"       from "TODO"       [2018-10-18 Thu 19:46] \\
   It's up, so this is not TODO. Although it can be better :)
 :END:
